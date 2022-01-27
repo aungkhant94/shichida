@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<link rel="shorCuts icon" type="text/css" href="https://mta-test.s3-us-west-2.amazonaws.com/SchoolLogo/shichida.png">
+	<title>Shichida</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/all.min.css">	
+	<link rel="stylesheet" type="text/css" href="css/fontawesome.min.css">	
+
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	
+	<style type="text/css">
+		body{
+			overflow-x: hidden;
+			font-family: Arial, Helvetica, sans-serif;
+		}
+		.homebg{
+
+			background-image: url(images/Home1.png);
+			background-size:100% auto;
+			background-position: top;
+			background-repeat: no-repeat;
+		}
+		.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+            color: white;
+            opacity: 1; /* Firefox */
+		}
+		.loginForm{
+			padding-top: 56%;
+
+		}
+		.loginForm form{
+			background-image: url(images/Overview2.png);
+			background-size:120% auto;
+			background-position: top;
+			background-repeat: no-repeat;
+		}
+		#footer{
+			background-color: #2f3263;
+			color:#fff;
+			padding: 2% 0%;
+		}
+		.divider1{
+			background-image: url(images/Home3.png);
+			background-size:100% auto;
+		}
+		.divider2{
+			background-image: url(images/Home7.png);
+			background-size:100% auto;
+		}
+		#promovideo{
+			background-image: url(images/Home8.png);
+			background-size:100% auto;
+		}
+		.divider3{
+			background-image: url(images/Home9.png);
+			background-size:100% auto;
+		}
+		.bg-dark2{
+			background-color: #2e2d35;
+		}
+		.cloud{
+
+		}
+		.btnLogin{
+			border:none;
+			color:white;
+			width:40%;
+			padding: 1%;
+			border-radius: 10px;
+		}
+		
+	</style>
+	<script type="text/javascript">
+			$(document).ready(function(){
+
+			$('.scrollBtn').click(function(event){
+				event.preventDefault();
+				document.querySelector($(this).attr('href')).scrollIntoView({ 
+				  behavior: 'smooth' 
+				});
+			});
+			});
+	</script>
+</head>
+<body>
+<div class="">
+	<nav class="navbar navbar-expand-lg" style="z-index: 99999">
+	  <a class="navbar-brand" href="#">
+	    <img src="images/shichida_logo.png" width="150px" class="d-inline-block" alt="">
+	  </a>
+	  <button style="position: absolute;right: 0;top:15px" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon" style="font-size: 1.2rem"><i class="fa fa-bars"></i></span>
+	  </button>
+
+	  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	    <ul class="navbar-nav ml-auto" style="font-size: 1.1rem">
+	      <li class="nav-item active">
+	        <a class="nav-link text-warning font-weight-bold" href="index.html">HOME</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link text-dark font-weight-bold" href="overview.html">OVERVIEW</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link text-dark font-weight-bold" href="pricing.html">PRICING</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link text-dark font-weight-bold" href="FAQ.html">FAQ</a>
+	      </li>
+	    </ul>
+	  </div>
+	</nav>
+	<div class="row">
+	    <div class="col homebg h-50">
+	    	<div class="loginForm" align="center">
+	    		<form class="col-8 col-sm-7 col-md-7 col-lg-5 bg-white shadow-lg" style="padding: 4%;border-radius: 20px" action="https://sms.shichida.cloud/j_spring_security_check" method="POST" >
+	    			<input type="hidden" id="schoolId" name="schoolId" value="9">
+				  <div class="form-group">
+				    <div class="input-group mb-3">
+					  <input type="text" class="form-control bg-warning text-white" placeholder="LOGIN ID" aria-label="Username" aria-describedby="basic-addon1" id="j_username" name="j_username"  style="border-radius: 10px;font-size: 1.2rem"/>
+					</div>
+				  </div>
+				  <div class="form-group">
+				   	<div class="input-group mb-3">
+					  <input type="password" class="form-control bg-warning text-white" placeholder="PASSWORD" aria-label="Username" aria-describedby="basic-addon1" id="j_password" name="j_password" style="border-radius: 10px;font-size: 1.2rem">
+					</div>
+				  </div>
+				  <input type="submit" name="" class="btnLogin bg-warning" value="LOGIN">
+				</form>
+	    	</div>
+
+	    </div>
+	    
+	</div>
+	<div class="row">
+	    <div class="col" align="center" style="padding: 2%">
+	    	
+	    </div>
+	</div>
+	<div class="row justify-content-center" id="homestudy" align="center">
+	    <div class="col-12 col-lg-6 col-md-12 col-sm-12" align="center">
+	    	<img src="images/Home2.png" width="70%">
+	    </div>
+	    <div class="col-12 col-lg-4 col-md-12 col-sm-12" style="text-align: justify;">
+	    	<div class="row justify-content-center">
+		    	<div class="col-11 col-lg-12 col-md-8 col-sm-8">
+		    		<br>
+			    	<p class="align-middle">
+			    		<p class="text-warning" style="font-size: 1.2rem">
+				    		<b>
+				    		ပြိုင်ဆိုင်မှုတွေပြင်းထန်ပြီး ဖိစီးမှုတွေများလွန်းတဲ့ ယနေ့ခေတ်မှာ သင့်ကလေးကို အိမ်မက်တွေကို အကောင်အထည် ဖော်နိုင်တဲ့ ပျော်ပျော်ရွှင်ရွှင် နေတတ်သူလေး ဖြစ်စေချင်ပါသလား ?
+				    		</b>
+				    	</p>
+				    	<p style="font-size: 1rem">
+				    		Shichida Method ဟာ လွန်ခဲ့တဲ့ နှစ်ပေါင်း ၆၀ ကျော်ကတည်းက ပေါ်ပေါက်ခဲ့တဲ့ သမိုင်းဝင် ပညာရေးတစ်ခု ဖြစ်တဲ့အလျှောက် ကလေးငယ်များရဲ့ စိတ်ဓာတ်နှင့် အရည်အသွေးများ ဖွံ့ဖြိုးလာစေမယ့် ပညာရေးဖြစ်ပါတယ်။
+				    		Love, Encourage, Accept ဆိုတဲ့ Shichida ရဲ့ ဆောင်ပုဒ်အတိုင်း ချစ်ခြင်းမေတ္တာနဲ့ စိတ်နှလုံးသားကို အခြေခံပြီး ကလေးတွေကို လေ့ကျင့်ပျိုးထောင်ပေးနေတဲ့ ဒီပညာရေးစနစ်ကြောင့် ကလေးငယ်များရဲ့ မွေးရာပါအရည်အသွေးတွေကို ညီညီမျှမျှ ဖွံ့ဖြိုးတိုးတက်ကာ စိတ်ဓာတ် နဲ့ အရည်အချင်းပြည့်ဝတဲ့ ခေါင်းဆောင်လေးတွေအဖြစ် လင်းလက်လာမှာပါ။
+				    	</p>
+			    	</p>
+		   		</div>
+	   		</div>
+	    </div>
+	</div>
+	<div class="row">
+		<div class="col-12" align="center">
+			<br>
+			<a href="#shorCuts" class="btn btn-sm btn-warning rounded-circle scrollBtn"><i class="fa fa-chevron-down text-white"></i></a>
+		</div>
+	</div>
+	<div class="row divider1">
+	    <div class="col" align="center" style="padding: 3.5%">
+	    	
+	    </div>
+	</div>
+	<div class="row justify-conatent-center" style="padding: 5%;background-color: #f8fbfc" id="shorCuts">
+		<div class="col col-lg-4 col-md-7 col-sm-7" align="center" style="padding: 5% 2%">
+			<a href="overview.html"><img src="images/Home4.png" width="40%"></a>
+			
+		</div>
+		<div class="col-lg-4 col-md-7 col-sm-7" align="center" style="padding: 5% 2%">
+			<a href="pricing.html"><img src="images/Home5.png" width="40%"></a>
+			
+		</div>
+		<div class="col-lg-4 col-md-7 col-sm-7" align="center" style="padding: 5% 2%">
+			<a href="FAQ.html"><img src="images/Home6.png" width="40%"></a>
+			
+		</div>
+	</div>
+
+	<div class="row justify-conatent-center" style="padding: 5%;background-color: #f8fbfc" id="shorCuts">
+        <div class="overlay"></div>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12">
+              <div class="contents text-center">
+                <h2 class="" style="color: #585b60;
+    font-size: 34px;
+    line-height: 48px;
+    font-weight: 700;
+    margin-bottom: 30px;">Shichida Assistant <br> Simply Download & Learn Offline</h2>
+                
+                  <a href="https://mta-test.s3-us-west-2.amazonaws.com/Shichida+Assistant+Installer.exe" target="_blank" class="btn btn-primary"> <i class="fab fa-windows fa-4x"> </i> <div style="    float: right;
+    margin: 20px 20px;">Download Now</div> </a>
+                
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+	<div class="row bg-light">
+		<div class="col-12" align="center">
+			<br>
+			<a href="#promovideo" class="btn btn-sm btn-warning rounded-circle scrollBtn"><i class="fa fa-chevron-down text-white"></i></a>
+		</div>
+	</div>
+	<div class="row divider2">
+	    <div class="col" align="center" style="margin: 3.5%">
+
+	    </div>
+	</div>
+	<div class="row justify-content-center" id="promovideo">
+	    <div class="col-lg-7 col-md-10 col-sm-10" style="padding: 5% 0%" align="center">
+
+	    	<iframe width="80%" height="362" src="https://www.youtube.com/embed/O78-Ey5XOrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	    </div>
+	</div>
+	<div class="row divider3">
+	    <div class="col" align="center" style="padding: 3.5%">
+	    	
+	    </div>
+	</div>
+	<div class="row bg-dark2 justify-content-center" style="padding: 2.5%; font-size: 1.4rem;">
+		<div class="col-12 col-lg-3 col-md-4 col-sm-4">
+			<a href="index.html" class="text-white"><p><b>HOME</b></p></a><br>
+			<a href="privacy.html" class="text-white"><p><b>PRIVACY POLICY</b></p></a><br>
+			<a href="termsAndConditions.html" class="text-white"><p><b>TERMS & CONDITION</b></p></a><br>
+		</div>
+		<div class="col-12 col-lg-4 col-md-4 col-sm-4">
+			<b class="text-white">SOCIAL MEDIA</b><br><br>
+			<a target="_blank" href="https://www.facebook.com/shichidamyanmar/"><i class="fab fa-facebook-square text-white fa-lg"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a target="_blank" href="https://www.facebook.com/shichidamandalay/"><i class="fab fa-facebook-square text-white fa-lg"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a target="_blank" href="https://www.instagram.com/shichidamyanmar/"><i class="fab fa-instagram text-white fa-lg"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a target="_blank" href="https://www.youtube.com/channel/UCE2Aja0-WF9gJ8pltusmBvA"><i class="fab fa-youtube text-white fa-lg"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<br/><br/>
+			<img src="images/ShichidaCloudLogo.png" width="50%">
+			<a href="#" class="d-none btn btn-block btn-small btn-warning text-white">SIGN UP</a>
+		</div>
+		<div class="col-12 col-lg-3 col-md-4 col-sm-4">
+			<b class="text-white">Hot Lines</b><br><br>
+
+			<a href="tel:09-260-290-003" width="500px" class="text-white"><i class="fas fa-phone text-white fa-lg"></i> 09 260 290003</a><br/><br/>
+			<a href="tel:09-260-290-004" width="500px" class="text-white"><i class="fas fa-phone text-white fa-lg"></i> 09 260 290004</a><br/><br/>
+			<a href="tel:09-260-290-005" width="500px" class="text-white"><i class="fas fa-phone text-white fa-lg"></i> 09 260 290005</a><br><br>
+			
+		</div>
+	</div>
+</div>
+<div class="row justify-content-center" id="footer">
+	<div class="col-12">
+		<footer>
+
+		  <!-- Copyright -->
+			  <table style="margin:0;">
+			  <tr>
+			  <td width="40%" align="right"><p>
+			    Powered by
+			    </p></td>
+			  <td width="20%" style="text-align: center;"><img src="images/Marvellous_logo.png" width="80%"></td>
+			  <td width="40%"><p class="left">&copy; <span class="footer-year"></span></p></td>
+			  </tr>
+			  
+			  </table>
+			  
+			  <!-- Copyright -->
+
+		</footer>
+	</div>
+</div>
+<!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v9.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your Chat Plugin code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="323166771206305"
+  theme_color="#20cef5"
+  logged_in_greeting="Hi👋👋, Welcome! Please feel free to contact us if you have any questions .🤗"
+  logged_out_greeting="Hi👋👋, Welcome! Please feel free to contact us if you have any questions .🤗">
+      </div>
+</body>
+</html>

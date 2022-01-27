@@ -1,0 +1,713 @@
+{
+  "2989" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.9.1/03-Lesson 1-9-1 Part 1",
+    "handler" : "",
+    "ip" : "192.168.1.1",
+    "os" : "Macintosh-10.152",
+    "subjectDetailIdList" : "",
+    "username" : "super user"
+  },
+  "3474" : {
+    "browser" : "Safari-13.1",
+    "current-video" : "Shichida Cloud/2.9.1/Lesson 2-9-1 Part 1",
+    "handler" : "teacher_tshtet@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Macintosh-10.154",
+    "subjectDetailIdList" : "[2593]",
+    "username" : "Thadar Shoon Lei"
+  },
+  "3907" : {
+    "browser" : "Chrome-81.04044138",
+    "current-video" : "Shichida Cloud/3.9.1/Lesson 3-9-1 Part 4",
+    "handler" : "teacher_zythein@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-6.1",
+    "subjectDetailIdList" : "[2641]",
+    "username" : "May Kyal Sin"
+  },
+  "3938" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/3.5.1/Lesson 3-5-1 Part 2",
+    "handler" : "teacher_epmay@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-6.3",
+    "subjectDetailIdList" : "[2625]",
+    "username" : "Zwe Sett Naing @ Iron"
+  },
+  "3998" : {
+    "browser" : "Safari-0",
+    "current-video" : "Shichida Cloud/4.0.1/Lesson 4-0-1 Welcome Video",
+    "handler" : "teacher_zythein@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "iPad-12.3",
+    "subjectDetailIdList" : "[2654]",
+    "username" : "Khin Nhaing Ma Ya"
+  },
+  "4015" : {
+    "browser" : "Chrome-81.04044138",
+    "current-video" : "Shichida Cloud/3.5.1/Lesson 3-5-1 Part 4",
+    "handler" : "teacher_hmmon@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Android-5.11",
+    "subjectDetailIdList" : "[2625]",
+    "username" : "May Moeset"
+  },
+  "4071" : {
+    "browser" : "Safari-0",
+    "current-video" : "Shichida Cloud/2.7.1/02- Lesson 2-7-1 Preparation",
+    "handler" : "teacher_yphyu@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "iPhone-13.3",
+    "subjectDetailIdList" : "[2585]",
+    "username" : "Mabel @ Shwe Eain Lin"
+  },
+  "4088" : {
+    "browser" : "Safari-13.05",
+    "current-video" : "Shichida Cloud/3.6.1/01- Welcome Video",
+    "handler" : "teacher_kzoo@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "iPhone-13.31",
+    "subjectDetailIdList" : "[2629]",
+    "username" : "Bhone Dipar Maung @ Thar Tone"
+  },
+  "4115" : {
+    "browser" : "Safari-13.1",
+    "current-video" : "Shichida Cloud/2.4.1/03- Lesson 2-4-1 Part 1",
+    "handler" : "teacher_scmkyaw@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Macintosh-10.136",
+    "subjectDetailIdList" : "[2573]",
+    "username" : "Ar Man Myo Kyaw @ Caleb"
+  },
+  "4231" : {
+    "browser" : "Safari-0",
+    "current-video" : "Shichida Cloud/2.7.1/01- Lesson 2-7-1 Welcome Video",
+    "handler" : "teacher_yphyu@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    
+    "os" : "iPad-12.3",
+    "subjectDetailIdList" : "[2585]",
+    "username" : "Nhaing Ma Ya Aung"
+  },
+  "4264" : {
+    "browser" : "Firefox-74.05",
+    "current-video" : "Shichida Cloud/1.9.1/03- Lesson 1-9-1 Part 1",
+    "handler" : "teacher_hmmon@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2544]",
+    "username" : "Zeya Tun"
+  },
+  "4469" : {
+    "browser" : "Chrome-81.04044138",
+    "current-video" : "Shichida Cloud/1.6.1/03- Lesson 1-6-1 Part 1",
+    "handler" : "teacher_tshtet@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Macintosh-10.154",
+    "subjectDetailIdList" : "[2532]",
+    "username" : "Lin Ti Khant"
+  },
+  "4493" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.10.1/Lesson 2-10-1 Part 5",
+    "handler" : "teacher_hmmon@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Macintosh-10.15",
+    "subjectDetailIdList" : "[2597]",
+    "username" : "Aekari"
+  },
+  "4552" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Week 6/Sing Along Songs Section/Go Away! ( Fun song to sing along )",
+    "handler" : "teachersa@gmail.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "username" : "Hugo"
+  },
+  "4568" : {
+    "browser" : "Safari-13.1",
+    "current-video" : "Shichida Cloud/1.5.1/03- Lesson 1-5-1 Part 5",
+    "handler" : "teacher_ymthu@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "iPad-13.41",
+    "subjectDetailIdList" : "[2528]",
+    "username" : "Zoey Zaw "
+  },
+  "4706" : {
+    "browser" : "Chrome-81.04044138",
+    "current-video" : "Shichida Cloud/1.0.1/01- Welcome Video",
+    "handler" : "teacher_yphyu@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Macintosh-10.146",
+    "subjectDetailIdList" : "[2508]",
+    "username" : "Angel Myint Mo Aung"
+  },
+  "4752" : {
+    "browser" : "Safari-13.1",
+    "current-video" : "Shichida Cloud/1.5.1/01- Welcome Video",
+    "handler" : "teacher_nnaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    
+    "os" : "Macintosh-10.154",
+
+    "subjectDetailIdList" : "[2528]",
+    "username" : "Sitt Myat Tun@August"
+  },
+  "4802" : {
+    "browser" : "Chrome-83.0410383",
+    "current-video" : "Shichida Cloud/2.7.1/01- Lesson 2-7-1 Welcome Video",
+    "handler" : "teacher_hmmon@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    
+    "os" : "Android-10",
+    "subjectDetailIdList" : "[2585]",
+    "username" : "Thae Su Htoon"
+  },
+  "4878" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.3.1/03- Lesson 1-3-1 Part 4",
+    "handler" : "teacher_kzoo@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-6.1",
+    "subjectDetailIdList" : "[2520]",
+    "username" : "Myat Eaindra Phyo"
+  },
+  "5019" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/3.6.1/01- Welcome Video",
+    "handler" : "teacher_halin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2629]",
+    "username" : "Nan Yoon Poe Phyu"
+  },
+  "5031" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.3.1/01- Lesson 2-3-1 Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2568]",
+    "username" : "Thoon Hsu Htet San"
+  },
+  "5036" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/3.5.1/3.5.1-Welcome Video",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2625]",
+    "username" : "Yati Phoo lwin"
+  },
+  "5049" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/3.5.1/3.5.1-Welcome Video",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2625]",
+    "username" : "Myat Loon Hay Thi"
+  },
+  "5058" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/3.5.1/3.5.1-Welcome Video",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2625]",
+    "username" : "Yein Chan"
+  },
+  "5068" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/4.3.1/4.3.1-Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2666]",
+    "username" : "Su Wyne Pyae"
+  },
+  "5092" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.3.1/01- Lesson 2-3-1 Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2568]",
+    "username" : "Ye Myat Bhone Shein"
+  },
+  "5106" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.3.1/01- Lesson 2-3-1 Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2568]",
+    "username" : "Shine Htet Wai Yan"
+  },
+  "5128" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.0.1/01- Lesson 2-0-1 Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2556]",
+    "username" : "May Nang Ta Khin"
+  },
+  "5134" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.3.1/01- Lesson 2-3-1 Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2568]",
+    "username" : "Thiha Min Zaw"
+  },
+  "5156" : {
+    "browser" : "Safari-13.05",
+    "current-video" : "Shichida Cloud/2.6.1/01- Lesson 2-6-1 Welcome Video",
+    "handler" : "teacher_pmnaing@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "iPhone-13.31",
+    "subjectDetailIdList" : "[2581]",
+    "username" : "Wai Bhone Htet Hlyan"
+  },
+  "5175" : {
+    "browser" : "Chrome-52.0274398",
+    "current-video" : "Shichida Cloud/2.11.1/Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Android-5.11",
+    "subjectDetailIdList" : "[2601]",
+    "username" : "San Htar Phyu"
+  },
+  "5189" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.11.1/Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2601]",
+    "username" : "Lin Yaung Thar"
+  },
+  "5192" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/3.5.1/3.5.1-Welcome Video",
+    "handler" : "teacher_pmnaing@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2625]",
+    "username" : "Thoon Thadar Lin"
+  },
+  "5196" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.3.1/01- Lesson 2-3-1 Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2568]",
+    "username" : "Win Myat Ma Haw"
+  },
+  "5220" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/3.5.1/3.5.1-Welcome Video",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2625]",
+    "username" : "Bhone Htet Naing"
+  },
+  "5228" : {
+    "browser" : "Chrome-75.03770143",
+    "current-video" : "Shichida Cloud/2.0.1/01- Lesson 2-0-1 Welcome Video",
+    "handler" : "teacher_halin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Android-9",
+    
+    "subjectDetailIdList" : "[2556]",
+    "username" : "Myat Phone Thit"
+  },
+  "5230" : {
+    "browser" : "Safari-13.11",
+    "current-video" : "Shichida Cloud/4.1.1/Lesson 4-1-1 Preparation",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "iPhone-13.5",
+    "subjectDetailIdList" : "[2658]",
+    "username" : "Hein Khant Kyaw"
+  },
+  "5239" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.11.1/Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2601]",
+    "username" : "Phyu Sin May"
+  },
+  "5241" : {
+    "browser" : "Chrome-46.02486",
+    "current-video" : "Shichida Cloud/2.6.1/02- Lesson 2-6-1 Preparation",
+    "handler" : "teacher_pmnaing@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    
+    "os" : "Windows-10",
+    
+    "subjectDetailIdList" : "[2581]",
+    "username" : "Thwe Zin Ko"
+  },
+  "5244" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.11.1/Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2601]",
+    "username" : "Te Linn Ko"
+  },
+  "5246" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/4.1.1/Lesson 4-1-1 Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2658]",
+    "username" : "Shune Lawon Myat"
+  },
+  "5263" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.1.1/01- Welcome Video",
+    "handler" : "teacher_pmnaing@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2512]",
+    "username" : "Tu Hnine Ma Mhie"
+  },
+  "5279" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.3.1/01- Lesson 2-3-1 Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2568]",
+    "username" : "Chloe"
+  },
+  "5282" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.4.1/01- Lesson 2-4-1 Welcome Video",
+    "handler" : "teacher_pmnaing@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2573]",
+    "username" : "Shwe Thadar May"
+  },
+  "5285" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.9.1/01- Welcome Video",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2544]",
+    "username" : "Pyae Phyo Maung"
+  },
+  "5288" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.2.1/01- Lesson 2-2-1 Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2564]",
+    "username" : "Helena"
+  },
+  "5294" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.0.1/01- Lesson 2-0-1 Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2556]",
+    "username" : "Thar Htet Aung"
+  },
+  "5297" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.9.1/01- Welcome Video",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2544]",
+    "username" : "Min Myat Hein Khant"
+  },
+  "5314" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.9.1/01- Welcome Video",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2544]",
+    "username" : "Hsu Mudra Linn"
+  },
+  "5352" : {
+    "browser" : "Chrome-83.0410383",
+    "current-video" : "Shichida Cloud/1.9.1/03- Lesson 1-9-1 Part 2",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Android-10",
+    "subjectDetailIdList" : "[2544]",
+    "username" : "Phyo Thura Zaw"
+  },
+  "5357" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.5.1/01- Welcome Video",
+    "handler" : "teacher_halin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2528]",
+    "username" : "Thet Myat Noe Thu"
+  },
+  "5360" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.1.1/01- Welcome Video",
+    "handler" : "teacher_nshom@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-6.3",
+    "subjectDetailIdList" : "[2512]",
+    "username" : "Zwe Shein Bhone Pyae"
+  },
+  "5365" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.9.1/01- Welcome Video",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2544]",
+    "username" : "Poe Hay Thar Kyaw"
+  },
+  "5388" : {
+    "browser" : "Chrome-81.04044138",
+    "current-video" : "Shichida Cloud/1.9.1/02- Lesson 1-9-1 Preparation",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Android-10",
+    "subjectDetailIdList" : "[2544]",
+    "username" : "May Thit Khin"
+  },
+  "5394" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.6.1/01- Welcome Video",
+    "handler" : "teacher_nshom@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2532]",
+    "username" : "Su Myat Thadar"
+  },
+  "5429" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/3.5.1/3.5.1-Welcome Video",
+    "handler" : "teacher_pmnaing@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2625]",
+    "username" : "May Pyae Sone"
+  },
+  "5435" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.0.1/01- Lesson 2-0-1 Welcome Video",
+    "handler" : "teacher_halin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2556]",
+    "username" : "Khun Sann Linn Naing"
+  },
+  "5447" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.1.1/Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2560]",
+    "username" : "Bhone Pyae Min"
+  },
+  "5450" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.6.1/01- Lesson 2-6-1 Welcome Video",
+    "handler" : "teacher_pmnaing@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2581]",
+    "username" : "Paing Piti Cho"
+  },
+  "5462" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.11.1/01- Lesson 1-11-1 Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2552]",
+    "username" : "Lin Htet Aung"
+  },
+  "5465" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.8.1/01- Welcome Video",
+    "handler" : "teacher_halin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2540]",
+    "username" : "Phyu Hnin Thwe"
+  },
+  "5489" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.6.1/01- Lesson 2-6-1 Welcome Video",
+    "handler" : "teacher_pmnaing@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2581]",
+    "username" : "May Htet Myat"
+  },
+  "5498" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.4.1/01- Welcome Video",
+    "handler" : "teacher_nshom@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2524]",
+    "username" : "Myat Min Khant"
+  },
+  "5512" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.6.1/01- Lesson 2-6-1 Welcome Video",
+    "handler" : "teacher_pmnaing@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2581]",
+    "username" : "Thant Phyo Shan"
+  },
+  "5547" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/4.3.1/4.3.1-Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2666]",
+    "username" : "Lynn Myat Hein Aung"
+  },
+  "5549" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.2.1/01- Lesson 2-2-1 Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2564]",
+    "username" : "Min Myat Hein Aung"
+  },
+  "5584" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.0.1/01- Welcome Video",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2508]",
+    "username" : "Htet Yati Lwin Oo"
+  },
+  "5596" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.11.1/Welcome Video",
+    "handler" : "teacher_staung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2601]",
+    "username" : "Lwin Moe Hein"
+  },
+  "5599" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.1.1/Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2560]",
+    "username" : "Shin Thant Thiri"
+  },
+  "5624" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.5.1/01- Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2528]",
+    "username" : "Thoon Heather Lin"
+  },
+  "5630" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/3.5.1/3.5.1-Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2625]",
+    "username" : "Myat Lin Pyae"
+  },
+  "5716" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Week 1/1.0.1/Good Morning Song",
+    "handler" : "teacher_scmkyaw@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2508]",
+    "username" : "Test Student 1"
+  },
+  "5728" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/1.0.1/01- Welcome Video",
+    "handler" : "teacher_wmaye@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2508]",
+    "username" : "Test Student 4"
+  },
+  "5780" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/3.1.1/Welcome Video",
+    "handler" : "teacher_klin@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2609]",
+    "username" : "Nyi Lin Phyo"
+  },
+  "5817" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.11.1/Welcome Video",
+    "handler" : "",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2601]",
+    "username" : "Nyan Min Htet"
+  },
+  "5821" : {
+    "browser" : "Chrome-83.0410361",
+    "current-video" : "Shichida Cloud/2.9.1/Welcome Video",
+    "handler" : "",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-10",
+    "subjectDetailIdList" : "[2593]",
+    "username" : "Zin Myint Myat Tun"
+  },
+  "5829" : {
+    "browser" : "Safari-0",
+    "current-video" : "Shichida Cloud/1.0.1/01- Welcome Video",
+    "handler" : "teacher_tzaung@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Android-8.1",
+    "subjectDetailIdList" : "[2508]",
+    "username" : "Chan Hanny Sid"
+  },
+  "5833" : {
+    "browser" : "Firefox-76.05",
+    "current-video" : "Shichida Cloud/3.6.1/03- Lesson 3-6-1 Part 6",
+    "handler" : "teacher_kzoo@shichidamyanmar.com",
+    "ip" : "192.168.1.1",
+    "os" : "Windows-6.1",    
+    "subjectDetailIdList" : "[2629]",
+    "username" : "Myat Shwe Yi Min"
+  }
+}
